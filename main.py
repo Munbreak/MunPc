@@ -32,7 +32,7 @@ b = 0
 
 root = os.getcwd() #Узнаем текущую директорию
 
-#os.startfile(f'{root}' + '\\tray.exe') #Запуск скрипта для трея
+#os.startfile(f'{root}' + '\\tray.py') #Запуск скрипта для трея
 
 tokens = {'Bot' : '', 'You' : ''} #Токен бота и пользователя
 passwords = {} #Пароли хранятся в Passwords.json
